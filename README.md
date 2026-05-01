@@ -24,7 +24,7 @@ Animal intrusion in agricultural fields causes significant crop damage. Traditio
 
 ---
 
-## 🚀 Project Pipeline (High Reliability)
+## 📊 Project Pipeline
 
 ![Project Workflow](assets/workflow.png)
 
@@ -98,7 +98,7 @@ ELSE {
 
 ---
 
-## 🧰 Components Used
+## 🧰 Tech Stack
 
 ### 🔌 Hardware
 
@@ -193,42 +193,36 @@ For the code to compile, you must install these specific libraries:
 ---
 
 ## ⚙️ How It Works
-
-1. PIR detects motion (heat signature)
-2. Ultrasonic measures distance
-3. ESP8266 processes both signals
-4. If both conditions are true:
-
-   * 🔔 Buzzer ON
-   * 💡 LED ON
-   * 📱 Notification sent via WiFi
+1.  **PIR** detects motion heat signature.
+2.  **Ultrasonic** measures physical distance.
+3.  **ESP8266** processes both signals via the Fusion Gate.
+4.  **If valid detection**:
+    *   🔔 Buzzer ON
+    *   💡 LED ON
+    *   📱 Telegram Alert sent via WiFi
 
 ---
 
 ## 📊 Results
-
-* ✔ Reduced false triggers by **80–90%**
-* ✔ Accurate detection of animals/humans
-* ✔ Real-time alert system
-* ✔ Low-cost implementation
+*   ✔ **80–90% reduction** in false alarms.
+*   ✔ Accurate detection of living beings only.
+*   ✔ Real-time alert system with IoT connectivity.
+*   ✔ Low-cost, easy-to-deploy solution.
 
 ---
 
 ## 🚀 Features
-
-* ✅ Sensor Fusion (High Accuracy)
-* ✅ Real-time Detection
-* ✅ IoT-based Alerts
-* ✅ Low Power Consumption
-* ✅ Scalable for agricultural use
+*   ✅ **Sensor Fusion**: High accuracy biological detection.
+*   ✅ **Real-time Alerts**: IoT-enabled notifications.
+*   ✅ **Low Power**: Optimized for long-term farm use.
+*   ✅ **Scalable**: Easy to deploy across large agricultural areas.
 
 ---
 
 ## ⚠️ Limitations
-
-* Cannot identify specific animal types
-* Depends on sensor placement
-* Limited ultrasonic range
+*   Cannot classify specific animal types.
+*   Depends on optimal sensor placement.
+*   Limited ultrasonic range (~4 meters).
 
 ---
 
@@ -297,6 +291,12 @@ Common issues in existing systems:
 
 ---
 
-## ❤️ Final Note
+## 🏫 Institution
 
-> This project demonstrates how **sensor fusion + IoT** can solve real-world agricultural problems efficiently and affordably.
+St. Francis Institute of Technology
+(Mini Project – Sensor Lab)
+
+---
+
+## ❤️ Final Note
+> This project proves that simple sensor fusion + IoT can outperform complex systems in real-world scenarios.
