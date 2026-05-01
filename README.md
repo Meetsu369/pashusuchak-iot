@@ -297,13 +297,6 @@ Common issues in existing systems:
 
 ---
 
-## 🏫 Institution
-
-St. Francis Institute of Technology
-(Mini Project – Sensor Lab)
-
----
-
 ## ❤️ Final Note
 
 > This project demonstrates how **sensor fusion + IoT** can solve real-world agricultural problems efficiently and affordably.
