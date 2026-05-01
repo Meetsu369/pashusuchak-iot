@@ -30,11 +30,11 @@
 #define BUZZER  D7    // Active buzzer
 
 // ─── WIFI & TELEGRAM ─────────────────────────────────────────
-const char* ssid     = "OnePlus 9R";
-const char* password = "123321123";
+const char* ssid     = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
-#define BOT_TOKEN  "8576519126:AAHPRlTIqGW61_06_H9LG-lwxY58suJYs-w"
-#define CHAT_ID    "1242638323"
+#define BOT_TOKEN  "YOUR_TELEGRAM_BOT_TOKEN"
+#define CHAT_ID    "YOUR_TELEGRAM_CHAT_ID"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
