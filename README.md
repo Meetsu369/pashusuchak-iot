@@ -291,12 +291,5 @@ Common issues in existing systems:
 
 ---
 
-## 🏫 Institution
-
-St. Francis Institute of Technology
-(Mini Project – Sensor Lab)
-
----
-
 ## ❤️ Final Note
 > This project proves that simple sensor fusion + IoT can outperform complex systems in real-world scenarios.
